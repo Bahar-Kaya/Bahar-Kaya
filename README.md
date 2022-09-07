@@ -6,6 +6,6 @@
 
 
 ### Connect with me:
-[bahar.ky092@gmail.com]
+bahar.ky092@gmail.com
 
 ### Languages and Tools:
