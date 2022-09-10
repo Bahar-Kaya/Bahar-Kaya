@@ -20,9 +20,7 @@ width="500" height="320" />
 learning and sharing my knowledge with others as publicly as possible.
 - 👀  - :telescope: I’m currently working on  
 HTML, CSS, Bootstrap, Sass, JavaScript, React, 
-django, PostgradeSQL, MySQL,
-HTML, CSS, Bootstrap, Sass, 
-django, PostgradeSQL, MySQL,
+django, PostgradeSQL, MySQL, Linux
 - 🌱  Slowly and steadily, I'm trying to be 
 better than yesterday😉
 - 💞️ I’m looking to collaborate on with other content creators
@@ -57,7 +55,7 @@ height="25" src="https://raw.githubusercontent.com/Aslihan06/Aslihan06/master/im
   <code><img title="GitHub" height="25" 
 src="https://raw.githubusercontent.com/Aslihan06/Aslihan06/master/img/github.svg"></code>
 </p>
-  <br><br><br>
+  <br>
 <!-- <hr> -->
 <!-- <h2 align="center">⚡ Status ⚡</h2> -->
 <!-- <br> -->
