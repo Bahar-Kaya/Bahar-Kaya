@@ -56,15 +56,14 @@ src="https://raw.githubusercontent.com/Aslihan06/Aslihan06/master/img/github.svg
 
   <br><br><br><br><br><br><br><br><br>
 
-<!-- <hr> -->
-<!-- <h2 align="center">⚡ Status ⚡</h2> -->
-<!-- <br> -->
-<!-- <p align=center> -->
-  <!-- <div align=center> -->
-    <!-- <a href="https://github.com/Bahar-Kaya"  -->
-<!-- title="Go to Source"> -->
-      <!-- <!-- <img align="left" width=390 src="https://github.com/Bahar-Kaya/Bahar-Kaya#readme" alt="Bahar-Kaya"/> --> -->
-    <!-- </a> -->
+<hr>
+<h2 align="center">⚡ Status ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/Bahar-Kaya" 
+title="Go to Source">
+      <img align="left" width=390 src="https://github.com/Bahar-Kaya/Bahar-Kaya#readme" alt="Bahar-Kaya" </a>
   <!-- </div> -->
   <!-- <br><br><br><br> -->
 <!--  -->
@@ -80,10 +79,10 @@ src="https://raw.githubusercontent.com/Aslihan06/Aslihan06/master/img/github.svg
 <!-- height="115" src="https://github.com/Bahar-Kaya/NetFlix_Form_Page/blob/main/README.md"> -->
   <!-- <a align="left" href="https://github.com/Bahar-Kaya/BootstrapProject" title=" -->
 <!-- BootstrapProject"><img  -->
-<!-- <!-- align="left" height="115" src="https://github.com/Bahar-Kaya/BootstrapProject/blob/master/README.md --> -->
+<!-- <!- align="left" height="115" src="https://github.com/Bahar-Kaya/BootstrapProject/blob/master/README.md --> 
 <!-- "></a> -->
-  <!-- <!-- <a align="right" href="https://github.com/Bahar-Kaya/Google_Landing_Page" title="Google_Landing_Page "><img  --> -->
-<!-- <!-- align="right" height="115" src="https://github.com/Bahar-Kaya/Google_Landing_Page/blob/master/README.md --> -->
+  <!-- <!- <a align="right" href="https://github.com/Bahar-Kaya/Google_Landing_Page" title="Google_Landing_Page "><img  --> 
+<!-- <!- align="right" height="115" src="https://github.com/Bahar-Kaya/Google_Landing_Page/blob/master/README.md -->
 <!-- "></a> -->
 <!--  -->
 <!--  -->
