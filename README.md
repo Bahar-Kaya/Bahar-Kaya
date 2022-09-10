@@ -6,10 +6,14 @@
 
 
 
-##  👋   Hi there! I'm Bahar Kaya a Full Stack Developer
+##  👋   Hi there! I'm Bahar
 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47wejwii0m0f4p9n2j7z08zgt5y895v0pz2w3ab9g2&rid=giphy.gif&ct=g"
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e47fovp4h1gjir96xswr7ri2vafheyxyg7q636haj7d&rid=giphy.gif&ct=g"
 width="500" height="320" />
+
+
+<!-- <img align="right" alt="GIF" src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47wejwii0m0f4p9n2j7z08zgt5y895v0pz2w3ab9g2&rid=giphy.gif&ct=g" -->
+<!-- width="500" height="320" /> -->
 
 
 - I am a Full Stack Web Developer looking the solve real world problems. I have a passion for 
@@ -53,17 +57,15 @@ height="25" src="https://raw.githubusercontent.com/Aslihan06/Aslihan06/master/im
   <code><img title="GitHub" height="25" 
 src="https://raw.githubusercontent.com/Aslihan06/Aslihan06/master/img/github.svg"></code>
 </p>
-
-  <br><br><br><br><br><br><br><br><br>
-
-<hr>
-<h2 align="center">⚡ Status ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/Bahar-Kaya" 
-title="Go to Source">
-      <img align="left" width=390 src="https://github.com/Bahar-Kaya/Bahar-Kaya#readme" alt="Bahar-Kaya" </a>
+  <br><br><br>
+<!-- <hr> -->
+<!-- <h2 align="center">⚡ Status ⚡</h2> -->
+<!-- <br> -->
+<!-- <p align=center> -->
+  <!-- <div align=center> -->
+    <!-- <a href="https://github.com/Bahar-Kaya"  -->
+<!-- title="Go to Source"> -->
+      <!-- <img align="left" width=390 src="" alt="Bahar-Kaya" </a> -->
   <!-- </div> -->
   <!-- <br><br><br><br> -->
 <!--  -->
