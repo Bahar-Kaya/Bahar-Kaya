@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on with other content creators
 - Fun fact: I love to painting and decorate -->
 
-<!--  -->
-<!-- ### Connect with me: -->
-<!-- bahar.ky092@gmail.com -->
 
 
 ##  👋   Hi there! I'm Bahar Kaya a Full Stack Developer
@@ -28,9 +25,11 @@ better than yesterday😉
 - 💬  Ask me about: Anything!
 - 📫  How to reach me: 
 
-[![website](https://img.shields.io/badge/
-gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&
-logoColor=red)](mailto:bahar.ky092@gmail.com)
+### Connect with me:
+bahar.ky092@gmail.com
+
+
+
 
 
 <h2 align="center">🔥 Languages & Frameworks & 
@@ -70,6 +69,45 @@ Aslihan06/raw/master/img/vscode.png"></code>
 src="https://github.com/Aslihan06/Aslihan06/raw/
 master/img/github.svg"></code>
 </p>
+<h2 align="center">🔥 Languages & Frameworks & 
+Tools & Abilities 🔥</h2>
+<p align="center">
+  <code><img title="Python" height="25" 
+src="https://github.com/Aslihan06/Aslihan06/raw/
+master/img/python-original.svg"></code>
+  <code><img title="Django" height="25" 
+src="https://github.com/Aslihan06/Aslihan06/raw/
+master/img/django.png"></code>
+  <code><img title="Javascript" height="25" 
+src="https://github.com/Aslihan06/Aslihan06/raw/
+master/img/javascript.svg"></code>
+  <code><img title="HTML5" height="25" 
+src="https://github.com/Aslihan06/Aslihan06/raw/
+master/img/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://
+github.com/Aslihan06/Aslihan06/raw/master/img/
+css.svg"></code>
+  <code><img title="SASS" height="25" 
+src="https://github.com/Aslihan06/Aslihan06/raw/
+master/img/sass.svg"></code>
+  <code><img title="React" height="25" 
+src="https://github.com/Aslihan06/Aslihan06/raw/
+master/img/react-original.svg"></code>
+  <code><img title="Git" height="25" src="https://
+github.com/Aslihan06/Aslihan06/raw/master/img/
+git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" 
+src="https://github.com/Aslihan06/Aslihan06/raw/
+master/img/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" 
+height="25" src="https://github.com/Aslihan06/
+Aslihan06/raw/master/img/vscode.png"></code>
+  <code><img title="GitHub" height="25" 
+src="https://github.com/Aslihan06/Aslihan06/raw/
+master/img/github.svg"></code>
+</p>
+
+  <br><br><br><br><br><br><br><br><br>
 
 <hr>
 <h2 align="center">⚡ Status ⚡</h2>
